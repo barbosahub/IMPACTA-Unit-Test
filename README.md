@@ -1,3 +1,8 @@
 # unit-testing-java
-Example of the Unit Testing for Java
-# unit-testing-java, Aluno: Rui Barbosa | RE:1902447 
+
+Utilizei com lambdas 5!
+
+Aluno: Leonardo Consani | RE:1902453 
+Aluno: Rui Barbosa | RE:1902447 
+
+# unit-testing-java
